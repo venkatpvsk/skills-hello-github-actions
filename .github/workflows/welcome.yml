@@ -1,0 +1,5 @@
+name: Post welcome Comment
+on:
+  pull_request: 
+    types: [opened]
+permissions: write
